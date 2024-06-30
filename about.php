@@ -2,8 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>BD Restaurant</title>
-        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <title>ABOUT US|AUTHOR'S CUISINE KAMA</title>        <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
 
@@ -135,7 +134,7 @@
                     <div class="row">
                         <div class="col-sm-6 col-md-3">
                             <div class="single-team">
-                                <img src="img/team-1.jpg" alt="">
+                                <img src="./img/CEO.JPG" alt="">
                                 <h4>Don Dennis</h4>
                                 <p>Assistant Chef</p>
                                 <ul class="icon">
@@ -147,7 +146,7 @@
 
                         <div class="col-sm-6 col-md-3">
                             <div class="single-team">
-                                <img src="img/team-2.jpg" alt="">
+                                <img src="./IMG/mipicto (1).jpg" alt="">
                                 <h4>Mary Tejeda</h4>
                                 <p>Assistant Chef</p>
                                 <ul class="icon">
@@ -159,7 +158,7 @@
 
                         <div class="col-sm-6 col-md-3">
                             <div class="single-team">
-                                <img src="img/team-3.jpg" alt="">
+                                <img src="./img/mipicto (4).jpg" alt="">
                                 <h4>Scott Williams</h4>
                                 <p>Assistant Chef</p>
                                 <ul class="icon">
@@ -171,7 +170,7 @@
                         
                         <div class="col-sm-6 col-md-3">
                             <div class="single-team">
-                                <img src="img/team-4.jpg" alt="">
+                                <img src="./img/mipicto (5).jpg" alt="">
                                 <h4>Mary Hall</h4>
                                 <p>Assistant Chef</p>
                                 <ul class="icon">

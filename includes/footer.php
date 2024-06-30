@@ -3,8 +3,8 @@
             <!-- Support Section Start -->
             <section id="support">
                 <div class="container">
-                    <h1>
-                        Need Reservations? Call Us 24/7 at +1-234-567-8900
+                    <h1 class="text-primary">
+                        Need Reservations? We are Available 24/7 <i class="fa fa-phone"></i>  +256-785-740-523
                     </h1>
                 </div>
             </section>
@@ -14,8 +14,6 @@
                 <div class="col-sm-6">
                     <div class="copyright">
                         <p> &copy;<?php echo date('Y');?> <a href="">Restaurant Author's Cuisine Kama</a>. All Rights Reserved</p>
-                        <!-- &rAarr; -->
-                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "./order.php/credit-removal". Thank you for your support. ***/-->
                         <p> Developed By <span style="color: white; font-size:30px;" >&#10028;</span>  <a href="https://www.kamatechnologies.co.in">Kama Technologies</a></p>
                     </div>
                 </div>

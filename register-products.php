@@ -2,8 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>BD Restaurant</title>
-        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <title>REGISTER PRODUCTS|AUTHOR'S CUISINE KAMA</title>        <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
 

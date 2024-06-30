@@ -336,13 +336,13 @@
             <section id="team">
                 <div class="container">
                     <div class="section-header">
-                        <h3>Meet Our Chef</h3>
+                        <h3>Meet Our Senior Chefs</h3>
                     </div>
 
                     <div class="row">
                         <div class="col-sm-6 col-md-3">
                             <div class="single-team">
-                                <img src="img/team-1.jpg" alt="">
+                                <img src="img/CEO.JPG" alt="">
                                 <h4>Don Dennis</h4>
                                 <p>Assistant Chef</p>
                                 <ul class="icon">
@@ -355,7 +355,7 @@
 
                         <div class="col-sm-6 col-md-3">
                             <div class="single-team">
-                                <img src="img/team-2.jpg" alt="">
+                                <img src="./img/mipicto (1).jpg" alt="">
                                 <h4>Mary Tejeda</h4>
                                 <p>Assistant Chef</p>
                                 <ul class="icon">
@@ -368,7 +368,7 @@
 
                         <div class="col-sm-6 col-md-3">
                             <div class="single-team">
-                                <img src="img/team-3.jpg" alt="">
+                                <img src="./img/mipicto (4).jpg" alt="">
                                 <h4>Scott Williams</h4>
                                 <p>Assistant Chef</p>
                                 <ul class="icon">
@@ -381,7 +381,7 @@
                         
                         <div class="col-sm-6 col-md-3">
                             <div class="single-team">
-                                <img src="img/team-4.jpg" alt="">
+                                <img src="./img/mipicto (5).jpg" alt="">
                                 <h4>Mary Hall</h4>
                                 <p>Assistant Chef</p>
                                 <ul class="icon">
@@ -406,7 +406,7 @@
                     <div class="owl-carousel testimonials-carousel">
                         <div class="row testimonial-item">
                             <div class="col-sm-4">
-                                <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
+                                <img src="img/20240626_120902.jpg" class="testimonial-img" alt="">
                             </div>
                             <div class="col-sm-8">
                                 <div class="testimonial-content">
@@ -425,7 +425,7 @@
 
                         <div class="row testimonial-item">
                             <div class="col-sm-4">
-                                <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
+                                <img src="img/mipicto (4).jpg" class="testimonial-img" alt="">
                             </div>
                             <div class="col-sm-8">
                                 <div class="testimonial-content">
@@ -444,7 +444,7 @@
 
                         <div class="row testimonial-item">
                             <div class="col-sm-4">
-                                <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
+                                <img src="img/mipicto (1).jpg" class="testimonial-img" alt="">
                             </div>
                             <div class="col-sm-8">
                                 <div class="testimonial-content">
